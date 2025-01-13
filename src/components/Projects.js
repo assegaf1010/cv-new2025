@@ -8,7 +8,7 @@ function Projects() {
       title: 'Web Federasi Renang',
       description: 'Swimm Federation',
       imageUrl: '/images/projek1.png',
-      projectLink: 'https://github.com/assegaf1010/assegaf.github.io'
+      projectLink: 'https://github.com/assegaf1010/wsf'
     },
     {
       id: 2,

@@ -20,7 +20,7 @@ function About() {
             <h2>About <span className="highlight">Me</span></h2>
             <h3>Full-stack Developer|</h3>
             <p>
-              Saya seorang Pengembang Frontend yang berpengalaman dalam membangun situs web dan
+              Saya seorang Pengembang Fullstack yang berpengalaman dalam membangun situs web dan
               aplikasi yang modern dan responsif. Saya ahli dalam HTML, CSS, JavaScript, dan kerangka
               kerja seperti React dan Next.js.
             </p>
