@@ -45,13 +45,13 @@ function Hero() {
     <section className="hero" id="home">
       <div className="hero-mobile-wrapper">
         <div className="social-links">
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/muhammad-assegaf/" target="_blank" rel="noopener noreferrer">
             <Linkedin size={24} />
           </a>
           <a href="https://wa.me/yourphone" target="_blank" rel="noopener noreferrer">
             <MessageCircle size={24} />
           </a>
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/assegaf1010?tab=overview&from=2025-01-01&to=2025-01-14" target="_blank" rel="noopener noreferrer">
             <GitHub size={24} />
           </a>
         </div>
