@@ -7,14 +7,14 @@ function Projects() {
       id: 1,
       title: 'Web Federasi Renang',
       description: 'Swimm Federation',
-      imageUrl: '/images/portfolio1.png',
+      imageUrl: '/images/projek1.png',
       projectLink: 'https://github.com/assegaf1010/assegaf.github.io'
     },
     {
       id: 2,
       title: 'UI UX SiDesa',
       description: 'UI UX Desain untuk Sistem DIgitalisasi Desa',
-      imageUrl: '/images/portfolio2.png',
+      imageUrl: '/images/projek2.png',
       projectLink: 'https://www.figma.com/proto/t7IxioTvvNNptRZcnsmk76/SiDesa?page-id=2%3A16&node-id=517-8&node-type=frame&viewport=905%2C-2376%2C0.65&t=Ys7Oo0qV8t2j2jPF-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=517%3A8&show-proto-sidebar=1'
     },
   ];
